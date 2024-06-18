@@ -1,2 +1,3 @@
 # typescript
-Typescript setup
+
+Typescript setup with node, npm, tsc compiler
